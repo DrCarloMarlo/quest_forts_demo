@@ -1,0 +1,58 @@
+.hidden-template {
+    display: none;
+}
+
+.row {
+    margin-bottom: 10px;
+}
+
+#status_connect {
+    position: relative;
+    float: left;
+}
+
+.flow-control div{
+    position: relative;
+    width: 40px;
+    height: 40px;
+    background-color: gold;
+    float: left;
+    margin: 5px;
+}
+
+.form-container {
+    background-color: #cccccc;
+}
+
+.form-container form {
+    position: relative;
+    float: left;
+    margin-left: 20px;
+}
+
+.container {
+    color: black;
+}
+
+.params {
+    position: relative;
+    height: 20px;
+    width: 100%;
+    margin-bottom: 5px;
+}
+
+.params div {
+    position: relative;
+    margin-left: 10px;
+    float: left;
+}
+
+.card {
+    padding: 5px;
+}
+
+.card > div {
+    position: relative;
+    background-color: #cccccc;
+
+}
